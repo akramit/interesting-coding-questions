@@ -7,3 +7,6 @@ I have compiled here some list of interesting problems.
 
 ## Array
 1. [Max Distance](https://www.interviewbit.com/problems/max-distance/)
+
+## Stack and Queues
+1. [Min-Stack](https://www.interviewbit.com/problems/min-stack/)
